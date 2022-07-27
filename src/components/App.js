@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import SceneryContainer from "./SceneryContainer";
 // import Scene from "./Scene";
 import UserForm from "./UserForm";
+import StarterData from "./StarterData";
 
 function App(){
 
