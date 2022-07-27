@@ -7,10 +7,14 @@ body{
   font-family: 'Nunito', sans-serif;
   background-color: azure;
 }
-.secOne{
-  width: 100%;
-  padding: 4em 0;
+.main{
+  padding: 4em;
   background-color: rgb(102, 118, 24, 0.2);
+  width: 90%;
+  border-radius: 5px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
 }
 .gradient {
   background-image: linear-gradient(to right,rgb(0, 64, 255),rgb(190, 143, 12));
@@ -50,15 +54,6 @@ body{
   width: 100%;
  
 }
-
-.main{
-  width: 80%;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
-}
-
-
 
 .leftSide{
   width: 40%;
@@ -215,8 +210,4 @@ a{
       font-size: 20px;
   }
 
-}
-
-@media screen and (max-width: 480px){
-  
 }
