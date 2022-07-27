@@ -1,0 +1,22 @@
+{
+    "birds" : [
+		{
+		"id": 1,
+		"name": "Black Billed Turaco",
+		"image": "https://cdn.pixabay.com/photo/2016/04/06/14/04/bird-1311822_960_720.jpg",
+		"desc": "Spectacular green crested turaco. Shows large crimson wing patches in flight. Found in rainforest and gallery forest. Acts like a typical turaco, bouncing through the trees, and flying occasionally with short bursts of wingbeats and long glides. Call is a gruff, accelerating series of “kow” notes. Similar to Schalow’s and Guinea Turacos, but minimal overlap in range. Crest is shorter than that of Schalow’s Turaco and has a white tip, unlike that of Guinea Turaco."
+		},
+		{
+		"id": 2,
+		"name": "Blue Headed Bee Eater",
+		"image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/250961761/1200",
+		"desc": "An easily overlooked forest bee-eater found in Central Africa and locally in East Africa, occurring in the forest interior and near forest edge and tree-fall gaps. Dark overall with a bluish to blue-purple head, belly, and tail, a red throat, a dark purplish-black face, a pale azure forehead, and a reddish back. May overlap locally with Blue-moustached Bee-eater in South-West Region, Cameroon, but Blue-headed Bee-eater has a pale forehead and no noticeable eye-line. Calls include a seldom-heard, two-parted 'ji-up!'"
+		},
+		{
+		"id": 3,
+		"name": "Turner's Eremomela",
+		"image": "https://www.oiseaux.net/photos/paul.van.giersbergen/images/eremomele.de.turner.pava.1g.jpg",
+		"desc": "A very small, well-marked warbler. Note the gray upperparts, the rufous forehead, and the white underparts with a black chest band. Found very locally in low- and middle-elevation rainforest, often along the forest edge. Very similar to Rufous-crowned Eremomela, but usually distinguished by range, and also slightly smaller, with less rufous on the crown. Usually in small groups, which frequently join mixed flocks. Inconspicuous vocalizations are high-pitched 'sit' notes, sometimes given singly, and sometimes in a quick series."
+		}
+	]
+}

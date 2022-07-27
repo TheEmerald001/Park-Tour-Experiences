@@ -19,7 +19,7 @@ body{
   margin: 20px 0 25px 0;
 }
 .desc{
-  font-size: 18px;
+  font-size: 20px;
 }
 .nav{
   background-color: #667618;
@@ -145,7 +145,7 @@ a{
   width: 100%;
   padding-bottom: 15px;
 }
-.oneSpecies img{
+.imgs{
   width: 100%;  
   height: 250px;
   object-fit: cover;

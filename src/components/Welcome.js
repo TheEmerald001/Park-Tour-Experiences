@@ -2,7 +2,7 @@ import React from "react";
 
 function Welcome() {
     return(
-        <React.Fragment className="secOne">
+        <React.Fragment>
             <div className="main">
                 <div className="leftSide">
                     <h2>Tutembee Pamoja Kakamega</h2>
