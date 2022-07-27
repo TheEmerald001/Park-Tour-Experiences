@@ -1,4 +1,5 @@
 import React from "react";
+import StarterData from "./StarterData";
 
 function Welcome() {
     return(
@@ -20,6 +21,7 @@ function Welcome() {
                                 </span>
                         </div>
                 </div>
+                <StarterData/>
             </div>
         </React.Fragment>
 
