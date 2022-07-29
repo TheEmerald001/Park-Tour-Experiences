@@ -12,7 +12,7 @@ function UserForm({ onAddScene }){
 
     function handleSubmit(e){
         e.preventDefault();
-        fetch("http://localhost:8004/birds", {
+        fetch("http://localhost:8004/scenes", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

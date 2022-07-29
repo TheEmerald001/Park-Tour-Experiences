@@ -1,4 +1,5 @@
 import React, { useState} from "react";
+import computeStart from "./StarterData";
 
 function Scene({ scene, onDeleteScene }){
 
@@ -10,9 +11,8 @@ function Scene({ scene, onDeleteScene }){
     }
 
     function deleteScene(){
-        fetch(`http://localhost:8004/birds/${id}`, {
-            method: "DELETE",
-        })
+        fetch(`http://localhost:8004/birds/${id}`)
+        // computeStart()
         .then(res => res.json())
         .then(() => {
             onDeleteScene(id)

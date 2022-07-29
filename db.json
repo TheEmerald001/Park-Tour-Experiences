@@ -1,5 +1,5 @@
 {
-    "birds" : [
+    "scenes" : [
 		{
 		"id": 1,
 		"name": "Black Billed Turaco",
@@ -17,6 +17,43 @@
 		"name": "Turner's Eremomela",
 		"image": "https://www.oiseaux.net/photos/paul.van.giersbergen/images/eremomele.de.turner.pava.1g.jpg",
 		"desc": "A very small, well-marked warbler. Note the gray upperparts, the rufous forehead, and the white underparts with a black chest band. Found very locally in low- and middle-elevation rainforest, often along the forest edge. Very similar to Rufous-crowned Eremomela, but usually distinguished by range, and also slightly smaller, with less rufous on the crown. Usually in small groups, which frequently join mixed flocks. Inconspicuous vocalizations are high-pitched 'sit' notes, sometimes given singly, and sometimes in a quick series."
-		}
+		},
+		{
+		"id": 4,
+		"name": "White Colobus Monkey",
+		"image": "https://images.pexels.com/photos/7211285/pexels-photo-7211285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"desc": "The name 'colobus' is derived from the Greek word for “mutilated,” because unlike other monkeys, colobus monkeys do not have thumbs. Their beautiful black fur strongly contrasts with the long white mantle, whiskers, bushy tail, and beard around the face. The Eastern black-and-white is distinguishable by a U-shaped cape of white hair running from the shoulders to lower back, whereas the Angolan black-and-white has white hairs flaring out only at the shoulders."
+		},
+		{	
+		"id": 5,
+		"name": "Debrazzar Monkey",
+		"image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_837/https://neprimateconservancy.org/wp-content/uploads/2021/11/de-brazzas-iStock-147791309-resize.jpg",
+		"desc": "Named after explorer Pierre Savorgnan de Brazza, the strikingly beautiful De Brazzas monkey is native to Central Africa. With a distinctive white beard, white belly, speckled grayish coat, and black extremities, the De Brazzas monkey has an elegant appearance. The orange crescent on the forehead, black crown atop their head, and long white stripes on their thighs and rump highlight the unusual beauty of the species. The long black tail is not prehensile, but is useful for balance when climbing trees. Hands and feet have opposable thumbs. Feet are stronger than those of other guenons and are particularly well adapted to walking on forest ground. "
+		},
+		{
+			
+		"id": 6,
+		"name": "Pottos",
+		"image": "https://cdn.britannica.com/03/158403-050-1D10AA79/Potto.jpg?w=690&h=388&c=crop",
+		"desc": "A potto has a long and slender body and a small, arrow-shaped head covered in brownish-gray fur. Its wet nose sticks out prominently at the tip of the “arrow.” Two hairless ears form tiny arches at the top of its head. However, its most striking feature is the eyes—round and bulging vortexes, big and sensitive enough to allow it to see in the dark."
+		},
+		{
+		"id": 7,
+		"name": "Ochlodes venatus",
+		"image": "http://www.eurobutterflies.com/pics/v/venatus29.jpg",
+		"desc": "A large golden skipper separated from the similar silver spotted skipper H. comma by the lack of silver spots on the underside hindwing found in that species."
+		},
+		{
+		"id": 8,
+		"name": "Borbo borbonica",
+		"image": "http://www.eurobutterflies.com/pics/b/borbonica97.jpg",
+		"desc": "Similar to the the Mediterranean skipper Gegenes nostrodamus with which it can fly. The current species is much larger and has large very clearly defined spots and the underside hindwing is well marked and is a bright yellow-green in fresh specimens particularly females."
+		},
+		{
+		"id": 9,
+		"name": "Kedestes callicles",
+		"image": "http://www.biodiversityexplorer.info/butterflies/hesperiidae/images/Kedestes-callicles-male-uns.jpg",
+		"desc": "edestes callicles, the pale ranger, is a butterfly of the family Hesperiidae. Rare but found in our forest, the wingspan is 27–29 mm for males and 33 mm for females. Adults are on wing from November to April (with a peak from February to March). There is one extended generation per year"
+			}
 	]
 }
