@@ -8,7 +8,7 @@ function Welcome() {
                 <div className="leftSide">
                     <h2>Tutembee Pamoja Kakamega</h2>
                         <div>
-                            <h1 className="gradient"></h1>
+                            <h1 className="gradient">.</h1>
                                 <span className="desc">
                                     Welcome to The Tropical Kakamega Rain Forest,
                                     a remnant of the rain forest that stretched all across Central Africa.
@@ -24,8 +24,6 @@ function Welcome() {
                 <StarterData/>
             </div>
         </React.Fragment>
-
     )
-
 }
 export default Welcome;

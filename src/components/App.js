@@ -12,7 +12,7 @@ function App(){
   const [showAddScene, setShowSceneForm] = useState(true);
 
   useEffect(() => {
-    fetch("http://localhost:8004/scenes")
+    fetch("https://serene-ocean-88435.herokuapp.com/scenes")
     .then(response => response.json())
     .then((data) => {
       setScenes(data)

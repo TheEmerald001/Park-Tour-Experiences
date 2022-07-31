@@ -11,7 +11,7 @@ function StarterData(){
     }
     function computeStart(e){
             e.preventDefault();
-            fetch(`"http://localhost:8004/${startData.trail}"`)            
+            fetch(`"https://serene-ocean-88435.herokuapp.com/scenes/${startData.trail}"`)            
             }
      
     

@@ -12,7 +12,7 @@ function UserForm({ onAddScene }){
 
     function handleSubmit(e){
         e.preventDefault();
-        fetch("http://localhost:8004/scenes", {
+        fetch("https://serene-ocean-88435.herokuapp.com/scenes", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

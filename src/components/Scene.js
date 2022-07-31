@@ -11,7 +11,7 @@ function Scene({ scene, onDeleteScene }){
     }
 
     function deleteScene(){
-        fetch(`http://localhost:8004/birds/${id}`)
+        fetch(`https://serene-ocean-88435.herokuapp.com/scenes/${id}`)
         // computeStart()
         .then(res => res.json())
         .then(() => {
